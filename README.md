@@ -20,6 +20,19 @@
 . Zeichne Kreise
 . Fülle mit Füll-Eimer
 . Spiegeln z.b. für Muster oder Schmetterlinke (senkrecht: , waagerecht: mit Shift, 4x mit Ctrl+Shift)
+. Löschen mit Radierer, ggf. Größe ändern, man kann auch das ganze Bild löschen und eine neue Kopie machen
+
+### Bearbeiten
+
+. Rückggängig funktioniert gut, immer mal absetzen, jede kontinuierliche Aktion wird auf einmal zurückgenommen
+
+Kopieren & Einfügen
+
+. Region mit Auswahlwerkzeug markieren
+. "Kopieren" (`ctrl+c`,`cmd+c`) oder Ausschneiden (`ctrl+x`,`cmd+x`)
+. Selektion ziehen ohne Werkzeugwechsel
+. "Einfügen" (`ctrl+v` or `cmd+v`)
+
 
 ### Animation 
 
